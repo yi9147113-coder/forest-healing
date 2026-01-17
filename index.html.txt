@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>森林療癒 × 生理數據｜健康體驗媒合平台</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+            margin: 0;
+            background: #f7f8f6;
+            color: #2c2c2c;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 820px;
+            margin: auto;
+            padding: 32px 20px;
+        }
+        h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-top: 48px;
+            font-size: 1.4em;
+        }
+        p {
+            margin: 12px 0;
+        }
+        .tag {
+            display: inline-block;
+            background: #e3efe6;
+            color: #2f6f4e;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
+        .buttons {
+            margin: 30px 0;
+        }
+        .btn {
+            display: inline-block;
+            margin-right: 12px;
+            margin-bottom: 12px;
+            padding: 14px 22px;
+            background: #2f6f4e;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+        }
+        .btn.secondary {
+            background: #5a7f6a;
+        }
+        .box {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 24px;
+            margin-top: 24px;
+        }
+        footer {
+            margin-top: 60px;
+            font-size: 0.85em;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+
+    <span class="tag">測試中 · MVP Platform</span>
+
+    <h1>森林療癒 × 生理數據<br>健康體驗媒合平台</h1>
+
+    <p>
+        我們正在建立一個結合<strong>森林療癒體驗</strong>與<strong>基礎生理數據觀察</strong>的媒合平台，
+        透過實際執行與回饋，探索預防醫學與健康生活的可行模式。
+    </p>
+
+    <div class="buttons">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF-q5P5bg2nBQ-52XdyXsz3v1ZuqGm9jXyeZD65lsvSFKneg/viewform?usp=publish-editor" class="btn">我要體驗 / 預約</a>
+        <a href="【放你的表單連結】" class="btn secondary">我想合作</a>
+    </div>
+
+    <img src="forest.jpg" alt="森林療癒">
+
+    <div class="box">
+        <h2>我們在做什麼</h2>
+        <p>・媒合森林療癒與相關健康體驗</p>
+        <p>・搭配前後生理指標觀察（如壓力相關數據）</p>
+        <p>・累積本土實證案例與使用者回饋</p>
+    </div>
+
+    <div class="box">
+        <h2>適合誰</h2>
+        <p>✔ 想嘗試森林療癒，並重視實際感受與回饋的人</p>
+        <p>✔ 尋找健康、ESG 或員工照護方案的企業與單位</p>
+        <p>✔ 擁有場地、專業、資源，想進行合作的夥伴</p>
+    </div>
+
+    <div class="box">
+        <h2>為什麼是測試階段</h2>
+        <p>
+            多數健康服務缺乏可驗證的成果。
+            我們選擇先從小規模、低風險開始，
+            累積真實數據與經驗，再逐步擴大。
+        </p>
+    </div>
+
+    <footer>
+        本平台目前為測試階段（MVP），內容將依實際執行持續優化。<br>
+        聯絡信箱：serendipity312888@yahoo.com
+        TEL:0979381735
+    </footer>
+
+</div>
+</body>
+</html>
